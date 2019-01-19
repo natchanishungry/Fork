@@ -1,0 +1,23 @@
+commit 818dc6a028f415ffacf83575150ca22763913ed8
+Author: Nathalie Raffray <nathalieraffray@Nathalies-MBP.local>
+Date:   Wed Dec 6 11:03:35 2017 -0500
+
+    received producer.c from partner, Jessica Callagero. ID = 260687012
+
+commit b9548feb7bec2aa02779f3e088ca69e62ab0b243
+Author: Nathalie Raffray <nathalieraffray@Nathalies-MBP.local>
+Date:   Tue Dec 5 18:12:46 2017 -0500
+
+    added comments to consumer. Runs well.
+
+commit 906db8bbb34b2ede7d33027e150c800729e4a986
+Author: Nathalie Raffray <nathalieraffray@Nathalies-MBP.local>
+Date:   Mon Dec 4 18:00:22 2017 -0500
+
+    consumer, working. main, working. 
+
+commit 089cae9a1703af9fcbf7ac6a3af607f73b66c606
+Author: Nathalie Raffray <nathalieraffray@Nathalies-MBP.local>
+Date:   Mon Dec 4 13:44:50 2017 -0500
+
+    good start on consumer.c, some looping problems.
